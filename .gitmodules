@@ -1,0 +1,6 @@
+[submodule "aachen-termin-bot"]
+	path = aachen-termin-bot
+	url = git@github.com:hanbinChen97/superC-termin-bot.git
+[submodule "saas-starter"]
+	path = saas-starter
+	url = git@github.com:hanbinChen97/saas-starter.git
