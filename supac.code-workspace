@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../aachen-termin-bot"
-		},
-		{
-			"path": "../saas-starter"
 		}
 	],
 	"settings": {}
